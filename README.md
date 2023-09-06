@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey, I'm Sachidananda Tripathy</h1>
 
 <p align="center">
-  <img src="raja.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://media.licdn.com/dms/image/D5603AQE5ShKRKEXzHg/profile-displayphoto-shrink_400_400/0/1688034412714?e=1699488000&v=beta&t=CtyrPxYEaKKS9mFIKp_E02WedxQHVXxik8Rv9X6Yb2M" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 
